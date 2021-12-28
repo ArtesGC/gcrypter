@@ -1,3 +1,8 @@
+# ************************************************
+#  (c) 2019-2021 Nurul-GC.                       *
+#  - BSD 3-Clause License                        *
+# ************************************************
+
 from setuptools import setup
 
 with open('README.md', 'r') as rf:
