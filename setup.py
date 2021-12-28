@@ -24,7 +24,6 @@ setup(
                 'Development Status :: 5 - Production/Stable',
                 'Intended Audience :: Developers',
                 'Topic :: Software Development :: Build Tools',
-                'License :: OSI Approved :: BSD 3-Clause License',
                 'Programming Language :: Python :: 3',
                 'Programming Language :: Python :: 3.6',
                 'Programming Language :: Python :: 3.7',
