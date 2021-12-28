@@ -1,0 +1,2 @@
+cd ..
+twine upload dist/*
