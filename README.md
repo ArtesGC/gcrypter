@@ -1,6 +1,6 @@
 <div align="center">
 
-![g6r-logo](img/favicon-192x192.png) \
+![g6r-logo](https://github.com/Nurul-GC/gcrypter/raw/main/img/favicon-192x192.png) \
 ![Github license](https://img.shields.io/github/license/Nurul-GC/gcrypter?style=social) 
 ![GitHub all releases](https://img.shields.io/github/downloads/Nurul-GC/gcrypter/total?style=social) \
 ![GitHub issues](https://img.shields.io/github/issues/Nurul-GC/gcrypter?style=social)
