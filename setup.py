@@ -11,7 +11,7 @@ with open('README.md', 'r') as rf:
 setup(
         name='gcrypter',
         packages=['gcrypter'],
-        version='0.3',
+        version='0.4',
         license='BSD 3-Clause',
         description='Encryption algorithm based on bytes and their correspondent numbers to encode strings',
         long_description=longdesc,
@@ -19,7 +19,7 @@ setup(
         author='Nurul-GC',
         author_email='nuruldecarvalhol@gmail.com',
         url='https://github.com/Nurul-GC/gcrypter',
-        download_url='https://github.com/Nurul-GC/gcrypter/archive/refs/tags/',
+        download_url='https://github.com/Nurul-GC/gcrypter/releases',
         project_urls={
                 "Bug Tracker": "https://github.com/Nurul-GC/gcrypter/issues",
         },
