@@ -5,9 +5,18 @@
 
 </div>
 
-- [0.1-122021]()
+- [0.1-122021](https://github.com/Nurul-GC/gcrypter/releases/tag/v0.1)
   - Refactored the original code;
   - Deployed to the PyPi platform as `gcrypter`;
+- [0.2-122021](https://github.com/Nurul-GC/gcrypter/releases/tag/v0.2)
+  - update project configurations
+  - refactored code
+- [0.3-122021](https://github.com/Nurul-GC/gcrypter/releases/tag/v0.3)
+  - update configurations
+  - refactored code
+- [0.4-122021](https://github.com/Nurul-GC/gcrypter/releases/tag/v0.4)
+  - update project configurations
+  - refactored code
 
 ---
 
