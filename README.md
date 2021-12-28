@@ -13,7 +13,7 @@
 
 </div>
 
-    Is an encryption algorithm based on bytes and their correspondent numbers to encode strings
+    Is an encryption algorithm based on bytes and their correspondent numbers to encode strings.
 
 - To **Encrypt**:
   - It gets the length of the text given and encode both (text and lenght) into bytes then convert
