@@ -1,3 +1,8 @@
+# ************************************************
+#  (c) 2019-2021 Nurul-GC.                       *
+#  - BSD 3-Clause License                        *
+# ************************************************
+
 from gcrypter import encrypt, decrypt
 
 if __name__ == '__main__':
