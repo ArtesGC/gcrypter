@@ -9,7 +9,7 @@ setup(
         author='Nurul-GC',  # Type in your name
         author_email='nuruldecarvalhol@gmail.com',  # Type in your E-Mail
         url='https://github.com/Nurul-GC/gcrypter',  # Provide either the link to your github or to your website
-        download_url='https://github.com/Nurul-GC/gcrypter/archive/v_01.tar.gz',  # I explain this later on
+        download_url='https://github.com/Nurul-GC/gcrypter/archive/refs/tags/v0.1.zip',  # I explain this later on
         keywords=['python-encryption', 'encryption-decryption', 'encryption-algorithm'],  # Keywords that define your package best
         install_requires=[],
         classifiers=[
