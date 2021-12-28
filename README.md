@@ -6,6 +6,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Nurul-GC/gcrypter?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Nurul-GC/gcrypter?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Nurul-GC/gcrypter?style=social) \
+![GitHub language count](https://img.shields.io/github/languages/count/Nurul-GC/gcrypter?style=social)
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Nurul-GC/gcrypter?style=social)
 
 # gcrypter
